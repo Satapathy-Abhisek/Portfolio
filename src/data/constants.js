@@ -1,3 +1,5 @@
+import projectImage from '../assets/Project1.jpeg'
+
 export const Bio = {
     name: "Abhisek Satapathy",
     roles: [
@@ -167,8 +169,7 @@ export const projects = [
         date: "Oct 2022",
         description:
             "Our Payment Gateway Integration Project is a vital component of our foundation's online presence, designed to facilitate effortless and secure contributions from individuals and organizations who wish to support our noble cause. This project centers around the development and implementation of a robust, user-friendly, and reliable payment gateway system for our foundation's website.",
-        image:
-            "Project1.jpeg",
+        image:projectImage,
         tags: [
             "HTML",
             "CSS",
